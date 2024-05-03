@@ -3,7 +3,7 @@ const Files = () => {
     return (
         <div>
             Files
-            <UserButton afterSignOutUrl='/' />
+            {/* <UserButton afterSignOutUrl='/' /> */}
 
         </div>
     )
